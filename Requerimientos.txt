@@ -1,0 +1,58 @@
+REQUERIMIENTOS BASICOS
+
+	1. Inicio (Home)
+		- Logo y Menu (Header)
+		- Banner
+			-Titulo
+			- Descripcion
+			- Boton
+			- Imagen
+		- Servicios que ofrecemos
+			- Desarrollo web
+			- Desarrollo movil
+			- Sistemas a medida
+		- Banner corporativo
+			- Imagen de fondo
+			- Texto principal
+			- Texto secundario
+			-Boton que lleva al contacto
+		- Ultimos proyectos
+			- 4 proyectos	
+				- Imagen (screenshot)
+				- Titulo
+				- Breve descripcion
+			-
+		- Footer
+			- Quieres trabajar con nosotros?
+				- Texto adicional
+				- Boton de contacto
+			- Redes sociales
+			- Copyright
+
+			
+	2. Quienes somos?
+		- Sobre nosotros
+			- Imagen
+			- Descripcion
+		- Mision 
+			- Imagen
+			- Descripcion
+		- Vision		
+			- Imagen
+			- Descripcion
+
+	3. Proyectos
+		- Cada proyecto: 
+			- Imagen (screenshot)
+			- Nombre del cliente o proyecto
+			- Descripcion
+			- Link de proyecto
+
+	4. Contacto
+		- Datos de la empresa
+			- Telefono
+			- Direccion
+			- Correo
+			- Mapa de ubicacion
+		- Formulario de contacto
+			- Integracion con algun servicio (Puede ser FB Messenger)
