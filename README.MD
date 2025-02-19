@@ -17,16 +17,16 @@ Contacto: Formulario de contacto, información de redes sociales y ubicación.
 
 ## 📂 Estructura del proyecto
     DevServicesHenao/
-├── index.html # Página principal
-├── about.html # Página "Quiénes Somos"
-├── proyectos.html # Página de proyectos
-├── contact.html # Página de contacto
-├── css/ # Carpeta de estilos
-│ └── estilos.css # Hoja de estilos principal
-├── img/ # Carpeta de imágenes
-│ └── (Imágenes utilizadas en el sitio)
-└── js/ # Carpeta de scripts
-└── main.js # Archivo JavaScript principal
+    ├── index.html # Página principal
+    ├── about.html # Página "Quiénes Somos"
+    ├── proyectos.html # Página de proyectos
+    ├── contact.html # Página de contacto
+    ├── css/ # Carpeta de estilos
+    │ └── estilos.css # Hoja de estilos principal
+    ├── img/ # Carpeta de imágenes
+    │ └── (Imágenes utilizadas en el sitio)
+    └── js/ # Carpeta de scripts
+    └── main.js # Archivo JavaScript principal
 ## 📧 Contacto
 Si tienes alguna duda o deseas colaborar, no dudes en contactarnos:
 
