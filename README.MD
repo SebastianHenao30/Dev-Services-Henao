@@ -32,7 +32,9 @@ Si tienes alguna duda o deseas colaborar, no dudes en contactarnos:
 
 - Correo: sebastianhenao215@gmail.com
 - WhatsApp: [Enlace a WhatsApp](https://wa.link/t7wrw5)
-- Redes Sociales: [Facebook] (https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fsebastian-morales-henao-2474541a3%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR37RTa4Z83A_5NqUQLSbhFUTJGhG7DyD4hDAcuNijh0VPrQvszyCJy41Ws_aem_7s4vMBByqyzgE393U9Yg2Q&h=AT1LyVZyTHU3gasf7AzOFWE2hk-u5c4mRa2W3PlLC1vvWPLSZdF12rryzpZyCtFO8u6Hj5_usCiROvXaFmtAK_ovFgCoh1SL4JPU_nfpyu97ZlvzjqCmCEtdfOHqoFoKviPQKzkjeJ13nMTxhHlz)
+- Redes Sociales: 
+    - [Facebook](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fsebastian-morales-henao-2474541a3%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR37RTa4Z83A_5NqUQLSbhFUTJGhG7DyD4hDAcuNijh0VPrQvszyCJy41Ws_aem_7s4vMBByqyzgE393U9Yg2Q&h=AT1LyVZyTHU3gasf7AzOFWE2hk-u5c4mRa2W3PlLC1vvWPLSZdF12rryzpZyCtFO8u6Hj5_usCiROvXaFmtAK_ovFgCoh1SL4JPU_nfpyu97ZlvzjqCmCEtdfOHqoFoKviPQKzkjeJ13nMTxhHlz)
+    -[Linkedin](www.linkedin.com/in/sebastian-morales-henao-2474541a3)
 
 
 Este proyecto está bajo la Licencia MIT.
